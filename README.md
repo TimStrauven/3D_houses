@@ -24,7 +24,11 @@ Aside from a 3D model like you see in the image on top you also get the exact si
 - Download them one by one here and extract them into the DSM_tif and DTM_tif folder respecively:
   - [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
   - [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
-
+<br/>
+<br/>
+- The terminal program:
+<br/>
+<img src="img/terminal.png" alt="terminal" width="600"/>
 
 # **Requirements:**
 - Linux
